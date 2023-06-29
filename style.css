@@ -1,0 +1,180 @@
+*{
+
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+.deep-web{
+    width: 90px;
+    height: 30px;
+    margin-left: 100px;
+    margin-top: 80px;
+    margin-right: 40px;
+    margin-bottom: 47px;
+    font-weight: bold;
+    font-size: 24px;
+    color: #191970;
+    cursor: pointer;
+
+}
+
+a:nth-child(1){
+    margin-left: 100px;
+
+}
+
+a:nth-child(3){
+    opacity: 0.4;
+    font-size: 18px;
+}
+
+a:nth-child(4){
+    opacity: 0.4;
+    font-size: 18px;
+}
+
+a:nth-child(5){
+    opacity: 0.4;
+    font-size: 18px;
+}
+
+a:nth-child(2){
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+
+.home-button{
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    background:#FFFFFF;
+    margin-left: 80px;
+    line-height: 30px;
+    color: #191970;
+    cursor: pointer;
+}
+
+hr{
+    width: 50%;
+    height: 5px;
+    margin-left: 100px;
+    margin-right: 880px;
+    margin-top: 30px;
+    background: #191970;
+}
+
+section{
+    
+    display: inline block;
+}
+
+h1{
+    Width:582px;
+    Height:164px;
+    margin-top: 120px;
+    margin-left: 60px;
+    font-size: 60px;
+    font-weight: 500 bold;
+    letter-spacing: 0.6px;
+    color: #191970;
+    display: inline-block;
+
+}
+
+
+h2{
+    
+    Width: 493px;
+    Height:99px;
+    margin-top: 60px;
+    margin-left: 55px;
+    font-size: 20px;
+    font-weight: lighter;
+    opacity: 0.5;
+    
+}
+
+.enter-button{
+    Width: 180px;
+    Height: 50px;
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-left: 50px;
+    margin-top: 25px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 5px #F08080;
+    border: none;
+    cursor: pointer;
+    background: #F08080;
+}
+
+.final-button{
+    border: none;
+    background: transparent;
+    margin-left: 80px;
+    cursor: pointer;
+}
+
+main{
+   
+    display: inline-block;
+}
+
+.first-photo{
+    
+    width: 350px;
+    margin-top: -280px;
+    margin-left: 650px;
+    margin-right: 300px;
+    margin-bottom: 800px;
+    border-radius: 50%;
+    display: inline-block;
+ 
+    
+}
+
+.second-photo{
+    width: 250px;
+    margin-top: -3000px;
+    margin-left: 1060px;
+    margin-bottom: 990px;
+    border-radius: 50%;
+    margin-right: 500px;
+    display: inline-block
+}
+
+   
+
+h3{
+    font-size: 25px;
+    font-weight: lighter;
+    margin-top: -800px;
+    margin-left: 50px;
+    text-align: center;
+    opacity: 0.4;
+}
+
+h4{
+    Width:582px;
+    Height:164px;
+    margin-top: 20px;
+    margin-left: 750px;
+    font-size: 30px;
+    letter-spacing: 0.6px;
+    color: #191970;
+}
+
+.photo-dog{
+    width: 50px;
+    margin-top: -380px;
+    margin-left: 640px;
+    margin-bottom: 100px;
+    border-radius: 50%;
+    opacity: 0.5;
+}

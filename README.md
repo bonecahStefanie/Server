@@ -3,5 +3,9 @@
 <br>
 <p>Nesse projeto consegui construir uma Landing Page usando fotos alinhadas uma do lado da outra com texto.E na construção dessa pagina foi usado HTML e CSS.</p>
 <br>
+<br>
+<img src="https://github.com/stefanieSilvaOliveira/Primeiro-projeto-landing-page-Pet/assets/118211028/94289be0-a248-4074-a0af-397940944a30"/img>
+<br>
+<br>
 <img src="https://github.com/stefanieSilvaOliveira/Primeiro-projeto-landing-page-Pet/assets/118211028/d0063ca5-dcc1-4718-b668-219fc516d4de"/img>
 <img src="https://github.com/stefanieSilvaOliveira/Primeiro-projeto-landing-page-Pet/assets/118211028/7881742c-4522-46fd-8878-a4dd97776c6c"/img>
